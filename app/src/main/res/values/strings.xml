@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project For Internshala</string>
+    <string name="send_otp">Send otp</string>
+    <string name="_91">+91</string>
+    <string name="login_with_mobile_number">Login with \nMobile number</string>
+    <string name="type_your_number">Type your number</string>
+    <string name="hero_image">Hero_Image</string>
+    <string name="signOut">SignOut</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="idea">idea</string>
+    <string name="ideaTxt">Idea</string>
+    <string name="suggestions">suggestions</string>
+    <string name="suggestionTxt">Suggestion</string>
+    <string name="careerTxt">Career</string>
+    <string name="medicalTxt">Medical</string>
+    <string name="foodTxt">Food</string>
+    <string name="gym">gym</string>
+    <string name="gymTxt">Gym</string>
+    <string name="settings">settings</string>
+    <string name="settingsTxt">Settings</string>
+    <string name="delete">delete</string>
+    <string name="deleteTxt">Delete</string>
+    <string name="food">Food</string>
+    <string name="career">career</string>
+    <string name="medical">medical</string>
+</resources>

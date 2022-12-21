@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-mergeDebugResources-35:\\layout\\activity_otpactivity.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-mergeDebugResources-35:/layout/dashboard.xml",
+        "source": "com.akash.projectforinternshala.app-main-38:/layout/dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-mergeDebugResources-35:\\layout\\activity_number.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_number.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.akash.projectforinternshala.app-main-38:/layout/activity_main.xml"
+    }
+]

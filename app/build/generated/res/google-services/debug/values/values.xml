@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">907288332678-bitnl8mpm56l7hdo5d6jcm0cm40sga2n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">907288332678</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7Yywpl-3JDfMLWslls5p_8cIxVlNWs1c</string>
+    <string name="google_app_id" translatable="false">1:907288332678:android:54479f0f9c4139a56c8407</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7Yywpl-3JDfMLWslls5p_8cIxVlNWs1c</string>
+    <string name="google_storage_bucket" translatable="false">project-for-internshala.appspot.com</string>
+    <string name="project_id" translatable="false">project-for-internshala</string>
+</resources>

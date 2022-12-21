@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable_login_background.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable\\login_background.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_trash.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/trash.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_medical.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/medical.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\layout_activity_otpactivity.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_otpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_food.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/food.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_suggestion.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/suggestion.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_career.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/career.png"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/layout_dashboard.xml.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/layout/dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable_customedittext.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable\\customedittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_idea.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/idea.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\layout_activity_number.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\layout\\activity_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_gym.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/gym.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable_login.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable\\login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.akash.projectforinternshala.app-merged_res-36:/drawable_settings.png.flat",
+        "source": "com.akash.projectforinternshala.app-main-38:/drawable/settings.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-debug-37:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.4\\com.akash.projectforinternshala.app-main-38:\\xml\\data_extraction_rules.xml"
+    }
+]
